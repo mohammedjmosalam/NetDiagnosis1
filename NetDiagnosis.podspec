@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'NetDiagnosis1'
+  s.name             = 'NetDiagnosis'
   s.version          = '1.1.2' # You can assign a version. Match the tag you originally wanted.
   s.summary          = 'A simple network diagnosis tool for iOS.'
   s.description      = <<-DESC
